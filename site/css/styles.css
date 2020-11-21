@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+}
+
+#header-nav {
+    background-color: #88888c;
+    border-radius: 0;
+    border: 0;    
+    border: solid black 3px;
+    margin-bottom: 0;
+}
+
+.navbar-brand {       
+    padding-left: 0;  
+}
+
+
+#nav-list {
+    margin-top: 10px;
+}
+
+
+#text {       
+    margin: 10px;
+    background-color: #88888c;
+    font-family: Aller;   
+    position: relative;
+}
+
+
+#nav-list a {
+    text-align: center;
+    color: #02064C;
+    font-family: 'ABeeZee';
+    font-weight: 100;
+    background-color: #AAA5A5;
+}
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
+
+.navbar-brand h1 {    
+    font-family: 'Aller Display';
+    font-size: 1.75em;
+    color: #141415;   
+    margin-top: 0;
+    margin-left: 15px;
+    margin-bottom: 0;
+}
+
+.text-center {
+    font-family: 'Aller';
+    font-size: 38px;
+    font-weight: bold;
+    position: relative;
+    margin-top: 55px;
+}
+
+
+#nav-list a:hover {
+    background-color: white;   
+}
+.navbar-collapse{
+    background-color: ;
+}
+
+.navbar-default .navbar-collapse {
+	margin-top:0px;
+	border: 0px;
+	list-style-type: none;
+}  
